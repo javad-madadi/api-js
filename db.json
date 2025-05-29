@@ -9,7 +9,7 @@
     {
       "id": 0,
       "rel": "shortcut icon",
-      "href": "https://www.dastresi.com/favicon.png"
+      "href": "../images/icon/favicon.png"
     }
   ],
   "header": [
@@ -17,7 +17,7 @@
       "id": 1,
       "name": "image",
       "link": "#",
-      "linkImage": "https://www.dastresi.com/images/logo/logo.png",
+      "linkImage": "../images/header/logo.png",
       "alt": "فروشگاه اینترنتی دسترسی"
     },
     {
@@ -703,7 +703,7 @@
       "id": 1,
       "name": "image",
       "link": "#",
-      "linkImage": "https://www.dastresi.com/images/logo/logo.png",
+      "linkImage": "../images/header/logo.png",
       "alt": "فروشگاه اینترنتی دسترسی"
     },
     {
@@ -739,25 +739,25 @@
   "slider1": [
     {
       "id": 1,
-      "link": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-2-min.png",
+      "link": "../images/slider1/1.png",
       "alt": "اسلایدر اول new",
       "address": "#"
     },
     {
       "id": 2,
-      "link": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-1%20(1).png",
+      "link": "../images/slider1/2.png",
       "alt": "اسلایدر دوم new",
       "address": "#"
     },
     {
       "id": 3,
-      "link": "https://www.dastresi.com/upload/filemanager/2024/12/01/banner%20acefast.jpg",
+      "link": "../images/slider1/3.png",
       "alt": "اسلایدر سوم new",
       "address": "#"
     },
     {
       "id": 4,
-      "link": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-4-min.png",
+      "link": "../images/slider1/4.png",
       "alt": "محصولات acefast",
       "address": "#"
     }
@@ -771,7 +771,7 @@
     {
       "id": 1,
       "link": "#",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2025/05/07/HISKA-223PD-11.jpg",
+      "linkImage": "../images/offer/1.jpg",
       "alt": "شارژر دیواری و پاوربانک وایرلس 20000 میلی آمپری 22.5 واتی هیسکا مدل Hiska HP-223PD",
       "title": "شارژر دیواری و پاوربانک وایرلس 20000 میلی آمپری 22.5 واتی هیسکا مدل Hiska HP-223PD",
       "real": "3,070,000",
@@ -782,7 +782,7 @@
     {
       "id": 2,
       "link": "#",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2024/11/20/mcdodo-062-11.jpg",
+      "linkImage": "../images/offer/2.jpg",
       "alt": "رابط برق USB دار مک دودو 30 وات مدل Mcdodo CH-062",
       "title": "رابط برق USB دار مک دودو 30 وات مدل Mcdodo CH-062",
       "real": "3,290,000",
@@ -793,7 +793,7 @@
     {
       "id": 3,
       "link": "#",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2024/12/29/MCDODO-486-11.jpg",
+      "linkImage": "../images/offer/3.jpg",
       "alt": "شارژر دیواری 45 واتی مک دودو مدل Mcdodo CH-486",
       "title": "شارژر دیواری 45 واتی مک دودو مدل Mcdodo CH-486",
       "real": "1,790,000",
@@ -804,7 +804,7 @@
     {
       "id": 4,
       "link": "#",
-      "linkImage": "https://amin-khodajoo.github.io/api-dastresi/images/offer/4.jpg",
+      "linkImage": "../images/offer/4.jpg",
       "alt": "تبدیل تایپ سی به جک 3.5 میلیمتری مک دودو مدل Mcdodo CA-7561",
       "title": "تبدیل تایپ سی به جک 3.5 میلیمتری مک دودو مدل Mcdodo CA-7561",
       "real": "1,790,000",
@@ -815,7 +815,7 @@
     {
       "id": 5,
       "link": "#",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2024/01/30/Ldnio-6140-11.jpg",
+      "linkImage": "../images/offer/5.jpg",
       "alt": "شارژر رومیزی الدینیو 140 واتی گان مدل Ldnio 6140",
       "title": "شارژر رومیزی الدینیو 140 واتی گان مدل Ldnio 6140",
       "real": "1,885,000",
@@ -831,49 +831,49 @@
     },
     {
       "id": 1,
-      "link": "https://www.dastresi.com/upload/filemanager/2023/04/20/powerbank.png",
+      "link": "../images/slider2/1.png",
       "alt": "پاوربانک و جامپ استارتر",
       "address": "#"
     },
     {
       "id": 2,
-      "link": "https://www.dastresi.com/upload/filemanager/2023/04/20/handsfree.png",
+      "link": "../images/slider2/2.png",
       "alt": "هندزفری و هدست، میکروفون",
       "address": "#"
     },
     {
       "id": 3,
-      "link": "https://www.dastresi.com/upload/filemanager/2023/04/20/Holder%20Negahdarande.png",
+      "link": "../images/slider2/3.png",
       "alt": "هولدر و نگهدارنده",
       "address": "#"
     },
     {
       "id": 4,
-      "link": "https://www.dastresi.com/upload/filemanager/2023/04/20/mobadel%20o%20rabet.png",
+      "link": "../images/slider2/4.png",
       "alt": "کابل - مبدل - رابط ",
       "address": "#"
     },
     {
       "id": 5,
-      "link": "https://www.dastresi.com/upload/filemanager/2023/04/20/battery.png",
+      "link": "../images/slider2/5.png",
       "alt": "باتری و شارژر",
       "address": "#"
     },
     {
       "id": 6,
-      "link": "https://www.dastresi.com/upload/filemanager/2023/04/20/gaming.png",
+      "link": "../images/slider2/6.png",
       "alt": "کنسول بازی و لوازم جانبی",
       "address": "#"
     },
     {
       "id": 7,
-      "link": "https://www.dastresi.com/upload/filemanager/2023/04/20/cable.png",
+      "link": "../images/slider2/7.png",
       "alt": "کابل شارژ",
       "address": "#"
     },
     {
       "id": 8,
-      "link": "https://www.dastresi.com/upload/filemanager/2023/04/20/adaptor.png",
+      "link": "../images/slider2/8.png",
       "alt": "آداپتور و شارژر",
       "address": "#"
     }
@@ -889,7 +889,7 @@
       "id": "1",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2025/02/26/PWECUQC029-22.jpg",
+      "linkImage": "../images/slider3/1.jpg",
       "alt": "رابط برق USB دار تایمر دار 2500 واتی پاورولوژی مدل Powerology PWCUQC029",
       "category": "رابط برق و USB",
       "title": "رابط برق USB دار تایمر دار 2500 واتی پاورولوژی مدل Powerology PWCUQC029",
@@ -902,7 +902,7 @@
       "id": "2",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2025/01/11/50GREEN-11.jpg",
+      "linkImage": "../images/slider3/2.jpg",
       "alt": "پاوربانک 50000 میلی آمپر 22.5 واتی گرین مدل Green Lion GNPWT50KPBBK",
       "category": "پاوربانک و جامپ استارتر",
       "title": "پاوربانک 50000 میلی آمپر 22.5 واتی گرین مدل Green Lion GNPWT50KPBBK",
@@ -915,7 +915,7 @@
       "id": "3",
       "link": "#",
       "color": "bg-blue",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2025/04/10/SE3338-11.jpg",
+      "linkImage": "../images/slider3/3.jpg",
       "alt": "رابط برق USB دار 65 واتی الدینیو مدل Ldnio SE3338",
       "category": " رابط برق و USB",
       "title": "رابط برق USB دار 65 واتی الدینیو مدل Ldnio SE3338",
@@ -928,7 +928,7 @@
       "id": "4",
       "link": "#",
       "color": "bg-white",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2025/01/12/ANKER2348-11.jpg",
+      "linkImage": "../images/slider3/4.jpg",
       "alt": "شارژر دیواری 33 واتی ریمکس مدل Remax RP-U122",
       "category": "شارژر دیواری",
       "title": "شارژر دیواری 33 واتی ریمکس مدل Remax RP-U122",
@@ -941,7 +941,7 @@
       "id": "5",
       "link": "#",
       "color": "bg-orange-400",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2025/04/12/POMP-GREEN-11.jpg",
+      "linkImage": "../images/slider3/5.jpg",
       "alt": "پمپ باد گرین INFLATOR مدل Green Lion GNTYIRNFBK",
       "category": " انواع گجت های جذاب",
       "title": "پمپ باد گرین INFLATOR مدل Green Lion GNTYIRNFBK",
@@ -954,7 +954,7 @@
       "id": "6",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2025/04/05/Q4010-11.jpg",
+      "linkImage": "../images/slider3/6.jpg",
       "alt": "شارژر رومیزی 140 واتی الدینیو مدل Ldnio Q4010",
       "category": "شارژر رومیزی",
       "title": "شارژر رومیزی 140 واتی الدینیو مدل Ldnio Q4010",
@@ -967,7 +967,7 @@
       "id": "7",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2025/01/15/JETFAN-11.jpg",
+      "linkImage": "../images/slider3/7.jpg",
       "alt": "جت فن 150 واتی گرین مدل Green Lion GNJJPBLWR2GY",
       "category": "انواع گجت های جذاب",
       "title": "جت فن 150 واتی گرین مدل Green Lion GNJJPBLWR2GY",
@@ -980,7 +980,7 @@
       "id": "8",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2025/04/16/MASSAGE-BALL-11.jpg",
+      "linkImage": "../images/slider3/8.jpg",
       "alt": "ماساژور توپی گرین مدل Green Lion GNMABALLBK",
       "category": "انواع گجت های جذاب",
       "title": "ماساژور توپی گرین مدل Green Lion GNMABALLBK",
@@ -997,25 +997,25 @@
     },
     {
       "id": "1",
-      "linkImage": "https://www.dastresi.com/images/icons/icon2.png",
+      "linkImage": "../images/why/1.png",
       "title": "مشاوره تخصصی برای خرید محصول",
       "body": "برای خرید هر محصول با تیم دسترسی در ارتباط باشید تا بهترین انتخاب رو انجام دهید."
     },
     {
       "id": "2",
-      "linkImage": "https://www.dastresi.com/images/icons/icon1.png",
+      "linkImage": "../images/why/2.png",
       "title": "قیمت مناسب با بالاترین کیفیت",
       "body": "گروه دسترسی در تلاش است که کالای با کیفیت را با مناسب‌ترین قیمت به دست شما برساند."
     },
     {
       "id": "3",
-      "linkImage": "https://www.dastresi.com/images/icons/icon3.png",
+      "linkImage": "../images/why/3.png",
       "title": "ارسال سریع",
       "body": "ارسال از طریق تیپاکس، پست پیشتاز و پیک موتوری (ویژه تهران) صورت می گیرد."
     },
     {
       "id": "4",
-      "linkImage": "https://www.dastresi.com/images/icons/icon4.png",
+      "linkImage": "../images/why/4.png",
       "title": "امکان خرید حضوری",
       "body": "مشتری گرامی جهت خرید حضوری می‌توانید به آدرس مندرج در پایین سایت مراجعه نمایید."
     }
@@ -1031,7 +1031,7 @@
       "id": "1",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2024/10/19/Untitled-1.jpg",
+      "linkImage": "../images/slider4/1.jpg",
       "alt": "کیبورد بلوتوثی مافی مدل Mofii Phoenix",
       "category": "ماوس و کیبورد و پدموس",
       "title": "کیبورد بلوتوثی مافی مدل Mofii Phoenix",
@@ -1044,7 +1044,7 @@
       "id": "2",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2025/04/13/JUMP-GREEN-11.jpg",
+      "linkImage": "../images/slider4/2.jpg",
       "alt": "جامپ استاتر و پمپ باد گرین مدل Green Lion GN12VJUSTBK",
       "category": "انواع گجت های جذاب",
       "title": "جامپ استاتر و پمپ باد گرین مدل Green Lion GN12VJUSTBK",
@@ -1057,7 +1057,7 @@
       "id": "3",
       "link": "#",
       "color": "bg-blue",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2024/10/23/battrey-xiaomi-NIM-1161.jpg",
+      "linkImage": "../images/slider4/3.jpg",
       "alt": "باتری نیم قلم 10 تایی شیائومی مدل Xiaomi ZI7",
       "category": "باتری آلکالاین",
       "title": "باتری نیم قلم 10 تایی شیائومی مدل Xiaomi ZI7",
@@ -1070,7 +1070,7 @@
       "id": "4",
       "link": "#",
       "color": "bg-orange-400",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2024/10/23/battrey-xiaomi-11.jpg",
+      "linkImage": "../images/slider4/4.jpg",
       "alt": "باتری قلمی 10تایی شیائومی مدل Xiaomi ZI5",
       "category": "باتری آلکالاین",
       "title": "باتری قلمی 10تایی شیائومی مدل Xiaomi ZI5",
@@ -1083,7 +1083,7 @@
       "id": "5",
       "link": "#",
       "color": "bg-white",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2025/02/13/HADRON-25W-22.jpg",
+      "linkImage": "../images/slider4/5.jpg",
       "alt": "شارژر دیواری 25 وات هادرون مدل Hadron C1011",
       "category": "شارژر دیواری",
       "title": "شارژر دیواری 25 وات هادرون مدل Hadron C1011",
@@ -1096,7 +1096,7 @@
       "id": "6",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2025/03/05/DOORBIAN-ACTION-11.jpg",
+      "linkImage": "../images/slider4/6.jpg",
       "alt": "دوربین ثبت وقایع 4K گرین لاین Green Lion Mini Action Camera GNMIACM20BK",
       "category": "انواع گجت های جذاب",
       "title": "دوربین ثبت وقایع 4K گرین لاین Green Lion Mini Action Camera GNMIACM20BK",
@@ -1109,7 +1109,7 @@
       "id": "7",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2025/02/26/PWECUQC029-22.jpg",
+      "linkImage": "../images/slider4/7.jpg",
       "alt": "رابط برق USB دار تایمر دار 2500 وا...",
       "category": "رابط برق و USB",
       "title": "رابط برق USB دار تایمر دار 2500 وا...",
@@ -1122,7 +1122,7 @@
       "id": "8",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2025/04/16/juser-green7-11.jpg",
+      "linkImage": "../images/slider4/8.jpg",
       "alt": "جویسر 600 میلی لیتر گرین مدل Green Lion GNPJ7BLDRBK",
       "category": "لوازم خانگی و شخصی",
       "title": "جویسر 600 میلی لیتر گرین مدل Green Lion GNPJ7BLDRBK",
@@ -1140,43 +1140,43 @@
     {
       "id": 1,
       "link": "#",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2022/03/07/logp.jpg",
+      "linkImage": "../images/slider5/1.jpg",
       "alt": "کملیون"
     },
     {
       "id": 2,
       "link": "#",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2022/02/26/H64c19886758b40378c31d5f46c5ae984A.jpg",
+      "linkImage": "../images/slider5/2.jpg",
       "alt": "مک دودو"
     },
     {
       "id": 3,
       "link": "#",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2022/02/24/Untitled-159.jpg",
+      "linkImage": "../images/slider5/3.jpg",
       "alt": "راوپاور"
     },
     {
       "id": 4,
       "link": "#",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2022/02/22/inoben.jpg",
+      "linkImage": "../images/slider5/4.jpg",
       "alt": "آینوبن"
     },
     {
       "id": 5,
       "link": "#",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2022/02/24/logo-1.jpg",
+      "linkImage": "../images/slider5/5.jpg",
       "alt": "انکر"
     },
     {
       "id": 6,
       "link": "#",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2024/11/21/Untitled-1.jpg",
+      "linkImage": "../images/slider5/6.jpg",
       "alt": "ایس فست"
     },
     {
       "id": 7,
       "link": "#",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2022/03/17/logo.jpg",
+      "linkImage": "../images/slider5/7.jpg",
       "alt": "پاورولوژی"
     }
   ],
@@ -1190,56 +1190,56 @@
     {
       "id": 1,
       "link": "#",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2024/10/23/fake-or-original-iphone-charger-dastresi-Artboard%201.jpg",
+      "linkImage": "../images/slider6/1.jpg",
       "alt": "راهنمای تشخیص شارژر اصلی آیفون و بهترین جایگزین‌ها",
       "body": "راهنمای تشخیص شارژر اصلی آیفون و بهترین جایگزین‌ها"
     },
     {
       "id": 2,
       "link": "#",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2024/10/25/best-powerology-power-bank-dastresiArtboard%201%20copy%202.jpg",
+      "linkImage": "../images/slider6/2.jpg",
       "alt": "بهترین پاوربانک پاورولوژی",
       "body": "بهترین پاوربانک پاورولوژی + 8 مدل از با کیفیت ترین ها"
     },
     {
       "id": 3,
       "link": "#",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2024/10/31/round-screen-smart-watch-dastresiArtboard%201%20copy.jpg",
+      "linkImage": "../images/slider6/3.jpg",
       "alt": "خرید بهترین ساعت هوشمند صفحه گرد",
       "body": "بهترین ساعت‌ های هوشمند صفحه گرد: قیمت و مدل‌های برتر در دسترسی"
     },
     {
       "id": 4,
       "link": "#",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2024/11/03/ssd-external-dastresi-Artboard%201%20copy%203.jpg",
+      "linkImage": "../images/slider6/4.jpg",
       "alt": "خرید بهترین ساعت هوشمند صفحه گرد",
       "body": "بهترین هارد اکسترنال SSD: سرعت و امنیت در کنار هم!"
     },
     {
       "id": 5,
       "link": "#",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2024/12/24/Microphone-under-1-millionArtboard%201%20(1).jpg",
+      "linkImage": "../images/slider6/5.jpg",
       "alt": "راهنمای خرید پاوربانک تا ۱۰ میلیون تومان",
       "body": "راهنمای خرید بهترین میکروفون زیر ۱ میلیون تومان"
     },
     {
       "id": 6,
       "link": "#",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2024/12/30/best-smelling-microphone-dastresi-Artboard%201%20copy%202%20(1).jpg",
+      "linkImage": "../images/slider6/6.jpg",
       "alt": "بهترین مدل های میکروفون بویا",
       "body": "معرفی ۵ مدل از بهترین میکروفون بویا"
     },
     {
       "id": 7,
       "link": "#",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2025/01/25/wired-handsfree-phone-dastresi-.jpg",
+      "linkImage": "../images/slider6/7.jpg",
       "alt": "خرید بهترین هندزفری سیمی تا ۵۰۰ تومان",
       "body": "خرید بهترین هندزفری سیمی تا ۵۰۰ تومان"
     },
     {
       "id": 8,
       "link": "#",
-      "linkImage": "https://www.dastresi.com/upload/filemanager/2025/05/18/iphone-cable-charger-dastresiArtboard%201.jpg",
+      "linkImage": "../images/slider6/8.jpg",
       "alt": "بهترین کابل شارژ برای آیفون: راهنمای کامل انتخاب در ۵ دقیقه!",
       "body": "بهترین کابل شارژ برای آیفون: راهنمای کامل انتخاب در ۵ دقیقه!"
     }
@@ -1254,9 +1254,9 @@
     },
     {
       "id": 2,
-      "linkImage": "https://www.dastresi.com/images/logo/logo.png",
+      "linkImage": "../images/footer/1.png",
       "connect": "با ما در ارتباط باشید:",
-      "instagram": "https://www.dastresi.com/images/icons/instagram.png",
+      "instagram": "../images/footer/2.png",
       "instagramLink": "#",
       "title": "فروشگاه اینترنتی دسترسی",
       "body": "فروشگاه دسترسی فعالیت خود را از سال 1389 به صورت فروش فیزیکی کالا در حوزه لوازم جانبی کامپیوتر و موبایل در تهران شروع کرد و از سال 1398 از طریق پیج اینستاگرام وارد فروش آنلاین شد و به خاطر ارائه کالای اصلی و مشاوره های دقیق در بازه بسیار کوتاهی توانست اعتماد بسیاری از مشتریانش را جلب کند و سرانجام در سال 1399 فروش از طریق سایت را هم به فعالیت های خود اضافه کرد تا اینکه بتواند با بررسی دقیق کالاها انتخاب صحیح شما را به ارمغان آورد. و امروز دسترسی فعالیت خود را در زمینه آداپتور موبایل، کابل شارژ، پاوربانک، ساعت هوشمند، هندزفری و هدست، لوازم گیمینگ، باتری و شارژر، لوازم شبکه، تجهیزات ذخیره سازی، گیرنده دیجیتال و هزاران گجت جذاب ادامه میدهد.",
@@ -1293,7 +1293,7 @@
           "text": "درباره ما"
         }
       ],
-      "checkImage": "https://trustseal.enamad.ir/logo.aspx?id=459575&Code=4u4bb1mwWD7m6bFkyaB3VmkLmc3DeldU",
+      "checkImage": "../images/footer/3.png",
       "checkLink": "#"
     },
     {
