@@ -9,7 +9,7 @@
     {
       "id": 0,
       "rel": "shortcut icon",
-      "href": "../images/icon/favicon.png"
+      "href": "https://javad-madadi.github.io/api-js/images/icon/favicon.png"
     }
   ],
   "header": [
@@ -17,7 +17,7 @@
       "id": 1,
       "name": "image",
       "link": "#",
-      "linkImage": "../images/header/logo.png",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/header/logo.png",
       "alt": "فروشگاه اینترنتی دسترسی"
     },
     {
@@ -703,7 +703,7 @@
       "id": 1,
       "name": "image",
       "link": "#",
-      "linkImage": "../images/header/logo.png",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/header/logo.png",
       "alt": "فروشگاه اینترنتی دسترسی"
     },
     {
@@ -739,25 +739,25 @@
   "slider1": [
     {
       "id": 1,
-      "link": "../images/slider1/1.png",
+      "link": "https://javad-madadi.github.io/api-js/images/slider1/1.png",
       "alt": "اسلایدر اول new",
       "address": "#"
     },
     {
       "id": 2,
-      "link": "../images/slider1/2.png",
+      "link": "https://javad-madadi.github.io/api-js/images/slider1/2.png",
       "alt": "اسلایدر دوم new",
       "address": "#"
     },
     {
       "id": 3,
-      "link": "../images/slider1/3.png",
+      "link": "https://javad-madadi.github.io/api-js/images/slider1/3.png",
       "alt": "اسلایدر سوم new",
       "address": "#"
     },
     {
       "id": 4,
-      "link": "../images/slider1/4.png",
+      "link": "https://javad-madadi.github.io/api-js/images/slider1/4.png",
       "alt": "محصولات acefast",
       "address": "#"
     }
@@ -771,7 +771,7 @@
     {
       "id": 1,
       "link": "#",
-      "linkImage": "../images/offer/1.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/offer/1.jpg",
       "alt": "شارژر دیواری و پاوربانک وایرلس 20000 میلی آمپری 22.5 واتی هیسکا مدل Hiska HP-223PD",
       "title": "شارژر دیواری و پاوربانک وایرلس 20000 میلی آمپری 22.5 واتی هیسکا مدل Hiska HP-223PD",
       "real": "3,070,000",
@@ -782,7 +782,7 @@
     {
       "id": 2,
       "link": "#",
-      "linkImage": "../images/offer/2.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/offer/2.jpg",
       "alt": "رابط برق USB دار مک دودو 30 وات مدل Mcdodo CH-062",
       "title": "رابط برق USB دار مک دودو 30 وات مدل Mcdodo CH-062",
       "real": "3,290,000",
@@ -793,7 +793,7 @@
     {
       "id": 3,
       "link": "#",
-      "linkImage": "../images/offer/3.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/offer/3.jpg",
       "alt": "شارژر دیواری 45 واتی مک دودو مدل Mcdodo CH-486",
       "title": "شارژر دیواری 45 واتی مک دودو مدل Mcdodo CH-486",
       "real": "1,790,000",
@@ -804,7 +804,7 @@
     {
       "id": 4,
       "link": "#",
-      "linkImage": "../images/offer/4.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/offer/4.jpg",
       "alt": "تبدیل تایپ سی به جک 3.5 میلیمتری مک دودو مدل Mcdodo CA-7561",
       "title": "تبدیل تایپ سی به جک 3.5 میلیمتری مک دودو مدل Mcdodo CA-7561",
       "real": "1,790,000",
@@ -815,7 +815,7 @@
     {
       "id": 5,
       "link": "#",
-      "linkImage": "../images/offer/5.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/offer/5.jpg",
       "alt": "شارژر رومیزی الدینیو 140 واتی گان مدل Ldnio 6140",
       "title": "شارژر رومیزی الدینیو 140 واتی گان مدل Ldnio 6140",
       "real": "1,885,000",
@@ -831,49 +831,49 @@
     },
     {
       "id": 1,
-      "link": "../images/slider2/1.png",
+      "link": "https://javad-madadi.github.io/api-js/images/slider2/1.png",
       "alt": "پاوربانک و جامپ استارتر",
       "address": "#"
     },
     {
       "id": 2,
-      "link": "../images/slider2/2.png",
+      "link": "https://javad-madadi.github.io/api-js/images/slider2/2.png",
       "alt": "هندزفری و هدست، میکروفون",
       "address": "#"
     },
     {
       "id": 3,
-      "link": "../images/slider2/3.png",
+      "link": "https://javad-madadi.github.io/api-js/images/slider2/3.png",
       "alt": "هولدر و نگهدارنده",
       "address": "#"
     },
     {
       "id": 4,
-      "link": "../images/slider2/4.png",
+      "link": "https://javad-madadi.github.io/api-js/images/slider2/4.png",
       "alt": "کابل - مبدل - رابط ",
       "address": "#"
     },
     {
       "id": 5,
-      "link": "../images/slider2/5.png",
+      "link": "https://javad-madadi.github.io/api-js/images/slider2/5.png",
       "alt": "باتری و شارژر",
       "address": "#"
     },
     {
       "id": 6,
-      "link": "../images/slider2/6.png",
+      "link": "https://javad-madadi.github.io/api-js/images/slider2/6.png",
       "alt": "کنسول بازی و لوازم جانبی",
       "address": "#"
     },
     {
       "id": 7,
-      "link": "../images/slider2/7.png",
+      "link": "https://javad-madadi.github.io/api-js/images/slider2/7.png",
       "alt": "کابل شارژ",
       "address": "#"
     },
     {
       "id": 8,
-      "link": "../images/slider2/8.png",
+      "link": "https://javad-madadi.github.io/api-js/images/slider2/8.png",
       "alt": "آداپتور و شارژر",
       "address": "#"
     }
@@ -881,7 +881,7 @@
   "slider3": [
     {
       "id": "0",
-      "title": "همین الان موجود شد...",
+      "title": "همین الان موجود شدhttps://javad-madadi.github.io/api-js.",
       "link": "#",
       "all": "مشاهده همه محصولات"
     },
@@ -889,7 +889,7 @@
       "id": "1",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "../images/slider3/1.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider3/1.jpg",
       "alt": "رابط برق USB دار تایمر دار 2500 واتی پاورولوژی مدل Powerology PWCUQC029",
       "category": "رابط برق و USB",
       "title": "رابط برق USB دار تایمر دار 2500 واتی پاورولوژی مدل Powerology PWCUQC029",
@@ -902,7 +902,7 @@
       "id": "2",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "../images/slider3/2.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider3/2.jpg",
       "alt": "پاوربانک 50000 میلی آمپر 22.5 واتی گرین مدل Green Lion GNPWT50KPBBK",
       "category": "پاوربانک و جامپ استارتر",
       "title": "پاوربانک 50000 میلی آمپر 22.5 واتی گرین مدل Green Lion GNPWT50KPBBK",
@@ -915,7 +915,7 @@
       "id": "3",
       "link": "#",
       "color": "bg-blue",
-      "linkImage": "../images/slider3/3.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider3/3.jpg",
       "alt": "رابط برق USB دار 65 واتی الدینیو مدل Ldnio SE3338",
       "category": " رابط برق و USB",
       "title": "رابط برق USB دار 65 واتی الدینیو مدل Ldnio SE3338",
@@ -928,7 +928,7 @@
       "id": "4",
       "link": "#",
       "color": "bg-white",
-      "linkImage": "../images/slider3/4.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider3/4.jpg",
       "alt": "شارژر دیواری 33 واتی ریمکس مدل Remax RP-U122",
       "category": "شارژر دیواری",
       "title": "شارژر دیواری 33 واتی ریمکس مدل Remax RP-U122",
@@ -941,7 +941,7 @@
       "id": "5",
       "link": "#",
       "color": "bg-orange-400",
-      "linkImage": "../images/slider3/5.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider3/5.jpg",
       "alt": "پمپ باد گرین INFLATOR مدل Green Lion GNTYIRNFBK",
       "category": " انواع گجت های جذاب",
       "title": "پمپ باد گرین INFLATOR مدل Green Lion GNTYIRNFBK",
@@ -954,7 +954,7 @@
       "id": "6",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "../images/slider3/6.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider3/6.jpg",
       "alt": "شارژر رومیزی 140 واتی الدینیو مدل Ldnio Q4010",
       "category": "شارژر رومیزی",
       "title": "شارژر رومیزی 140 واتی الدینیو مدل Ldnio Q4010",
@@ -967,7 +967,7 @@
       "id": "7",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "../images/slider3/7.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider3/7.jpg",
       "alt": "جت فن 150 واتی گرین مدل Green Lion GNJJPBLWR2GY",
       "category": "انواع گجت های جذاب",
       "title": "جت فن 150 واتی گرین مدل Green Lion GNJJPBLWR2GY",
@@ -980,7 +980,7 @@
       "id": "8",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "../images/slider3/8.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider3/8.jpg",
       "alt": "ماساژور توپی گرین مدل Green Lion GNMABALLBK",
       "category": "انواع گجت های جذاب",
       "title": "ماساژور توپی گرین مدل Green Lion GNMABALLBK",
@@ -997,25 +997,25 @@
     },
     {
       "id": "1",
-      "linkImage": "../images/why/1.png",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/why/1.png",
       "title": "مشاوره تخصصی برای خرید محصول",
       "body": "برای خرید هر محصول با تیم دسترسی در ارتباط باشید تا بهترین انتخاب رو انجام دهید."
     },
     {
       "id": "2",
-      "linkImage": "../images/why/2.png",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/why/2.png",
       "title": "قیمت مناسب با بالاترین کیفیت",
       "body": "گروه دسترسی در تلاش است که کالای با کیفیت را با مناسب‌ترین قیمت به دست شما برساند."
     },
     {
       "id": "3",
-      "linkImage": "../images/why/3.png",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/why/3.png",
       "title": "ارسال سریع",
       "body": "ارسال از طریق تیپاکس، پست پیشتاز و پیک موتوری (ویژه تهران) صورت می گیرد."
     },
     {
       "id": "4",
-      "linkImage": "../images/why/4.png",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/why/4.png",
       "title": "امکان خرید حضوری",
       "body": "مشتری گرامی جهت خرید حضوری می‌توانید به آدرس مندرج در پایین سایت مراجعه نمایید."
     }
@@ -1031,7 +1031,7 @@
       "id": "1",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "../images/slider4/1.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider4/1.jpg",
       "alt": "کیبورد بلوتوثی مافی مدل Mofii Phoenix",
       "category": "ماوس و کیبورد و پدموس",
       "title": "کیبورد بلوتوثی مافی مدل Mofii Phoenix",
@@ -1044,7 +1044,7 @@
       "id": "2",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "../images/slider4/2.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider4/2.jpg",
       "alt": "جامپ استاتر و پمپ باد گرین مدل Green Lion GN12VJUSTBK",
       "category": "انواع گجت های جذاب",
       "title": "جامپ استاتر و پمپ باد گرین مدل Green Lion GN12VJUSTBK",
@@ -1057,7 +1057,7 @@
       "id": "3",
       "link": "#",
       "color": "bg-blue",
-      "linkImage": "../images/slider4/3.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider4/3.jpg",
       "alt": "باتری نیم قلم 10 تایی شیائومی مدل Xiaomi ZI7",
       "category": "باتری آلکالاین",
       "title": "باتری نیم قلم 10 تایی شیائومی مدل Xiaomi ZI7",
@@ -1070,7 +1070,7 @@
       "id": "4",
       "link": "#",
       "color": "bg-orange-400",
-      "linkImage": "../images/slider4/4.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider4/4.jpg",
       "alt": "باتری قلمی 10تایی شیائومی مدل Xiaomi ZI5",
       "category": "باتری آلکالاین",
       "title": "باتری قلمی 10تایی شیائومی مدل Xiaomi ZI5",
@@ -1083,7 +1083,7 @@
       "id": "5",
       "link": "#",
       "color": "bg-white",
-      "linkImage": "../images/slider4/5.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider4/5.jpg",
       "alt": "شارژر دیواری 25 وات هادرون مدل Hadron C1011",
       "category": "شارژر دیواری",
       "title": "شارژر دیواری 25 وات هادرون مدل Hadron C1011",
@@ -1096,7 +1096,7 @@
       "id": "6",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "../images/slider4/6.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider4/6.jpg",
       "alt": "دوربین ثبت وقایع 4K گرین لاین Green Lion Mini Action Camera GNMIACM20BK",
       "category": "انواع گجت های جذاب",
       "title": "دوربین ثبت وقایع 4K گرین لاین Green Lion Mini Action Camera GNMIACM20BK",
@@ -1109,10 +1109,10 @@
       "id": "7",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "../images/slider4/7.jpg",
-      "alt": "رابط برق USB دار تایمر دار 2500 وا...",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider4/7.jpg",
+      "alt": "رابط برق USB دار تایمر دار 2500 واhttps://javad-madadi.github.io/api-js.",
       "category": "رابط برق و USB",
-      "title": "رابط برق USB دار تایمر دار 2500 وا...",
+      "title": "رابط برق USB دار تایمر دار 2500 واhttps://javad-madadi.github.io/api-js.",
       "real": "3,950,000",
       "price": "595,000",
       "toman": "تومان",
@@ -1122,7 +1122,7 @@
       "id": "8",
       "link": "#",
       "color": "bg-black",
-      "linkImage": "../images/slider4/8.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider4/8.jpg",
       "alt": "جویسر 600 میلی لیتر گرین مدل Green Lion GNPJ7BLDRBK",
       "category": "لوازم خانگی و شخصی",
       "title": "جویسر 600 میلی لیتر گرین مدل Green Lion GNPJ7BLDRBK",
@@ -1140,43 +1140,43 @@
     {
       "id": 1,
       "link": "#",
-      "linkImage": "../images/slider5/1.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider5/1.jpg",
       "alt": "کملیون"
     },
     {
       "id": 2,
       "link": "#",
-      "linkImage": "../images/slider5/2.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider5/2.jpg",
       "alt": "مک دودو"
     },
     {
       "id": 3,
       "link": "#",
-      "linkImage": "../images/slider5/3.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider5/3.jpg",
       "alt": "راوپاور"
     },
     {
       "id": 4,
       "link": "#",
-      "linkImage": "../images/slider5/4.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider5/4.jpg",
       "alt": "آینوبن"
     },
     {
       "id": 5,
       "link": "#",
-      "linkImage": "../images/slider5/5.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider5/5.jpg",
       "alt": "انکر"
     },
     {
       "id": 6,
       "link": "#",
-      "linkImage": "../images/slider5/6.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider5/6.jpg",
       "alt": "ایس فست"
     },
     {
       "id": 7,
       "link": "#",
-      "linkImage": "../images/slider5/7.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider5/7.jpg",
       "alt": "پاورولوژی"
     }
   ],
@@ -1190,56 +1190,56 @@
     {
       "id": 1,
       "link": "#",
-      "linkImage": "../images/slider6/1.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider6/1.jpg",
       "alt": "راهنمای تشخیص شارژر اصلی آیفون و بهترین جایگزین‌ها",
       "body": "راهنمای تشخیص شارژر اصلی آیفون و بهترین جایگزین‌ها"
     },
     {
       "id": 2,
       "link": "#",
-      "linkImage": "../images/slider6/2.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider6/2.jpg",
       "alt": "بهترین پاوربانک پاورولوژی",
       "body": "بهترین پاوربانک پاورولوژی + 8 مدل از با کیفیت ترین ها"
     },
     {
       "id": 3,
       "link": "#",
-      "linkImage": "../images/slider6/3.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider6/3.jpg",
       "alt": "خرید بهترین ساعت هوشمند صفحه گرد",
       "body": "بهترین ساعت‌ های هوشمند صفحه گرد: قیمت و مدل‌های برتر در دسترسی"
     },
     {
       "id": 4,
       "link": "#",
-      "linkImage": "../images/slider6/4.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider6/4.jpg",
       "alt": "خرید بهترین ساعت هوشمند صفحه گرد",
       "body": "بهترین هارد اکسترنال SSD: سرعت و امنیت در کنار هم!"
     },
     {
       "id": 5,
       "link": "#",
-      "linkImage": "../images/slider6/5.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider6/5.jpg",
       "alt": "راهنمای خرید پاوربانک تا ۱۰ میلیون تومان",
       "body": "راهنمای خرید بهترین میکروفون زیر ۱ میلیون تومان"
     },
     {
       "id": 6,
       "link": "#",
-      "linkImage": "../images/slider6/6.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider6/6.jpg",
       "alt": "بهترین مدل های میکروفون بویا",
       "body": "معرفی ۵ مدل از بهترین میکروفون بویا"
     },
     {
       "id": 7,
       "link": "#",
-      "linkImage": "../images/slider6/7.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider6/7.jpg",
       "alt": "خرید بهترین هندزفری سیمی تا ۵۰۰ تومان",
       "body": "خرید بهترین هندزفری سیمی تا ۵۰۰ تومان"
     },
     {
       "id": 8,
       "link": "#",
-      "linkImage": "../images/slider6/8.jpg",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/slider6/8.jpg",
       "alt": "بهترین کابل شارژ برای آیفون: راهنمای کامل انتخاب در ۵ دقیقه!",
       "body": "بهترین کابل شارژ برای آیفون: راهنمای کامل انتخاب در ۵ دقیقه!"
     }
@@ -1254,9 +1254,9 @@
     },
     {
       "id": 2,
-      "linkImage": "../images/footer/1.png",
+      "linkImage": "https://javad-madadi.github.io/api-js/images/footer/1.png",
       "connect": "با ما در ارتباط باشید:",
-      "instagram": "../images/footer/2.png",
+      "instagram": "https://javad-madadi.github.io/api-js/images/footer/2.png",
       "instagramLink": "#",
       "title": "فروشگاه اینترنتی دسترسی",
       "body": "فروشگاه دسترسی فعالیت خود را از سال 1389 به صورت فروش فیزیکی کالا در حوزه لوازم جانبی کامپیوتر و موبایل در تهران شروع کرد و از سال 1398 از طریق پیج اینستاگرام وارد فروش آنلاین شد و به خاطر ارائه کالای اصلی و مشاوره های دقیق در بازه بسیار کوتاهی توانست اعتماد بسیاری از مشتریانش را جلب کند و سرانجام در سال 1399 فروش از طریق سایت را هم به فعالیت های خود اضافه کرد تا اینکه بتواند با بررسی دقیق کالاها انتخاب صحیح شما را به ارمغان آورد. و امروز دسترسی فعالیت خود را در زمینه آداپتور موبایل، کابل شارژ، پاوربانک، ساعت هوشمند، هندزفری و هدست، لوازم گیمینگ، باتری و شارژر، لوازم شبکه، تجهیزات ذخیره سازی، گیرنده دیجیتال و هزاران گجت جذاب ادامه میدهد.",
@@ -1293,7 +1293,7 @@
           "text": "درباره ما"
         }
       ],
-      "checkImage": "../images/footer/3.png",
+      "checkImage": "https://javad-madadi.github.io/api-js/images/footer/3.png",
       "checkLink": "#"
     },
     {
